@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=moses%20Bot&width=1000&height=200)](https://github.com/mrmosesclr)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=MOSES%20XD%20BOT&width=1000&height=200)](https://github.com/mrmosesclr)
 
 <h3 align="center">A Passionate Android, Web & Bot Developer | Cybersecurity Enthusiast | Graphic/web designing and Music production</h3>
 
