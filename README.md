@@ -19,7 +19,7 @@
 
 ### 🚀 About Me
 
-- 👨‍🏫 **Mr Marinyame** — Owner of [Mr Moses Clr](https://www.youtube.com/@marinyamestudios)
+- 👨‍🏫 **Mr Marinyame** — Owner of [moses-xd](https://www.youtube.com/@marinyamestudios)
 - 🤖 Creator of **MOSES XD BOT** — A Multi-Device WhatsApp Bot
 - 🧠 Tech Enthusiast — Passionate about **Cybersecurity**, **App Dev**, and **Bots**
 - 📹 Content Creator — Tutorials & Tech Hacks on YouTube
